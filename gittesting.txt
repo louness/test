@@ -1,0 +1,5 @@
+1- SCM: Source Code Management -- VCS: Version Control System
+2- Keeps track of all changes made to a text file or a folder
+3- GIT bash, is a command line for GIT
+4- git (status, commit, push, pull, stach, stach apply , branch nom , -- push pull -- brunch origin nom , merge nom , checkout nom dik li rratmchi  liha ) 
+         
